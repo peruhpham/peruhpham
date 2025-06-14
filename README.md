@@ -16,8 +16,10 @@ Here are some ideas to get you started:
 -->
 
 # 💫 About Me:
-🛜 currently working on my own webpage<br>👨🏼‍🎓 studying media based computer science at Posts and Telecommunications Institute of Technology<br>👨🏼‍💻 working as a web developer since 2022<br>🎬 just started out with my youtube channel tobi tackles tech
-
+🛜 currently working on my own webpage<br>
+👨🏼‍🎓 studying media based computer science at Posts and Telecommunications Institute of Technology<br>
+👨🏼‍💻 working as a web developer since 2022<br>
+🎬 just started out with me
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/phuphamvan) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:phamvanphu.it@gmail.com) 
